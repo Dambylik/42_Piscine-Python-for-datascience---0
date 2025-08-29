@@ -1,9 +1,10 @@
 import sys
 
-def main() -> int:
-    """Main entry point of the program.
 
-    Analyzes a given string (from command-line argument or user input) and counts:
+def main() -> int:
+    """
+    Analyzes a given string (from command-line argument or user input)
+    and counts:
     - upper-case letters
     - lower-case letters
     - digits
