@@ -30,5 +30,5 @@ def ft_filter(function, iterable):
         
      
 # if __name__ == "__main__":
-#     # print(ft_filter.__doc__)
+#     #print(ft_filter.__doc__)
 #     main()
